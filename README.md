@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafaelMoles
 - 🗺️ I'm currently living in Oslo, Norway.
 - 💼 I've being working 2 years as a Software Engineer at Pexip and WebMedEPJ.
-- 🏫 I graduated from the Polytechnic University of Catalonia - Faculty of Informatics of Barcelona and studied abroad in Oslo, Norway at Høyskolen Kristiania. In addition, I'm persue a Master of Science in Business Analytics.
+- 🏫 I graduated from the Polytechnic University of Catalonia - Faculty of Informatics of Barcelona and studied abroad in Oslo, Norway at Høyskolen Kristiania. In addition, I persued a Master of Science in Business Analytics.
 - 👀 I’m interested in building full stack projects and have a complete overview of the different parts of a Software Project.
 - 🌱 I've been working mostly with Typescript, React, C++ and Python. I’m currently learning more of Backend development and data analytics.
 - 💞️ I’m looking to collaborate on really cool project that can contribute to improve society.
